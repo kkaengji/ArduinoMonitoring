@@ -1,5 +1,5 @@
 # ArduinoMonitoring
- Covid19 API를 이용한 국내외 Covid19 현황을 알아 볼 수 있는 프로그램입니다.
+ Arduino와 조도센서를 이용하여 그 값을 읽어오는 C# 윈폼 프로그램
 
 ## 프로젝트 정보
 ### 설치
