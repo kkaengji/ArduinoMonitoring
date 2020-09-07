@@ -11,7 +11,7 @@
 - Arduino에 PhotoRegisterSensor.ino 업로드
 - Visual Studio를 이용하여 AMTest.sln 파일을 실행 
 - Ctrl + F5 후 PORT를 자동으로 읽어오면 Arduino에 연결된 PORT 선택 후 Connect
-- 또는 시뮬레이션 시작
+- 또는 위 과정 없이 시뮬레이션 시작
 
 
 ## 실행화면
