@@ -1,5 +1,5 @@
 # ArduinoMonitoring
- Arduino와 조도센서를 이용하여 그 값을 읽어오는 C# 윈폼 프로그램
+ Arduino로 조도센서의 값을 받아와 C# WPF로 시각화해주는 프로그램입니다.
 
 ## 프로젝트 정보
 ### 설치
